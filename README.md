@@ -7,7 +7,7 @@
 <pre><h1><b>                      I'am Sunny</b></h1></pre>
 
 
-<H1><b>I'm a student Student of Computer Science.
+<H1><b>I'm a  Student of Computer Science.
 <br>
 <ul>
 <li><h2>Currently I'm Exploring</h2></li>
@@ -22,6 +22,5 @@
 <ul>
 <li>Connect With me :-
 <br>
-<a href="https://instagram.com/sun_ine247?igshid=NTA5ZTk1NTc="><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTUNUeHQlCOQvs1muKON2McsBWdvkmzAl8dQ&usqp=CAU" height="55" width="48"></a>&emsp;<a href="discordapp.com/users/sunny mondal#5667"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuaODsGbfeZY5d5CYdl2HltGxuEtcGbJ46A&usqp=CAU" height="55" width="48"></a><br>
-<b>For any query Mail Me at:&emsp;<i>mondal.sunny247@gmail.com</i></b>
+<a href="https://instagram.com/sun_ine247?igshid=NTA5ZTk1NTc="><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTUNUeHQlCOQvs1muKON2McsBWdvkmzAl8dQ&usqp=CAU" height="55" width="48"></a><br><b>For any query Mail Me at:&emsp;<i>mondal.sunny247@gmail.com</i></b>
 
